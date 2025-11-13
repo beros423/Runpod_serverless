@@ -1,217 +1,217 @@
 {
-  "timestamp": "2025-11-13T15:46:22.230456",
+  "timestamp": "2025-11-13T15:55:42.134439",
   "total_jobs": 10,
   "successful": 10,
   "failed": 0,
   "results": [
     {
       "job_index": 0,
-      "job_id": "d3eb19f3-6e63-4530-93d2-3bcc43c976a3",
+      "job_id": "fce2a06a-1c17-46ba-9250-9ee37fdaed4a",
       "input": {
         "task_name": "작업_1",
-        "wait_time": 2.08,
+        "wait_time": 1.59,
         "data": "테스트 데이터 1"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 1",
           "task_name": "작업_1",
-          "wait_time": 2.08
+          "wait_time": 1.59
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: d3eb19f3-6e63-4530-93d2-3bcc43c976a3\n대기 시간: 2.08초\n입력 데이터: {\n  \"task_name\": \"작업_1\",\n  \"wait_time\": 2.08,\n  \"data\": \"테스트 데이터 1\"\n}\n완료 시각: 2025-11-13T15:46:21.213300\n==================\n",
-        "wait_time": 2.08
+        "result_text": "작업 완료 보고서\n==================\nJob ID: fce2a06a-1c17-46ba-9250-9ee37fdaed4a\n대기 시간: 15.90초\n입력 데이터: {\n  \"task_name\": \"작업_1\",\n  \"wait_time\": 1.59,\n  \"data\": \"테스트 데이터 1\"\n}\n완료 시각: 2025-11-13T15:55:28.021018\n==================\n",
+        "wait_time": 15.9
       },
-      "wait_time": 2.08,
-      "total_time": 2.843742609024048,
+      "wait_time": 15.9,
+      "total_time": 16.406747817993164,
       "status": "COMPLETED"
     },
     {
       "job_index": 1,
-      "job_id": "f3135cbc-8070-4795-b69d-2e070ab3e9d4",
+      "job_id": "1135c106-4b1b-4121-899c-4610439b4656",
       "input": {
         "task_name": "작업_2",
-        "wait_time": 1.63,
+        "wait_time": 1.81,
         "data": "테스트 데이터 2"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 2",
           "task_name": "작업_2",
-          "wait_time": 1.63
+          "wait_time": 1.81
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: f3135cbc-8070-4795-b69d-2e070ab3e9d4\n대기 시간: 1.63초\n입력 데이터: {\n  \"task_name\": \"작업_2\",\n  \"wait_time\": 1.63,\n  \"data\": \"테스트 데이터 2\"\n}\n완료 시각: 2025-11-13T15:46:20.515474\n==================\n",
-        "wait_time": 1.63
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 1135c106-4b1b-4121-899c-4610439b4656\n대기 시간: 18.10초\n입력 데이터: {\n  \"task_name\": \"작업_2\",\n  \"wait_time\": 1.81,\n  \"data\": \"테스트 데이터 2\"\n}\n완료 시각: 2025-11-13T15:55:29.955806\n==================\n",
+        "wait_time": 18.1
       },
-      "wait_time": 1.63,
-      "total_time": 2.0676162242889404,
+      "wait_time": 18.1,
+      "total_time": 18.199652671813965,
       "status": "COMPLETED"
     },
     {
       "job_index": 2,
-      "job_id": "297114b8-0d12-4539-9c26-6800bb38e9d5",
+      "job_id": "5ca854c4-5d99-490b-aad7-fb0390e40d9a",
       "input": {
         "task_name": "작업_3",
-        "wait_time": 2.11,
+        "wait_time": 1.88,
         "data": "테스트 데이터 3"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 3",
           "task_name": "작업_3",
-          "wait_time": 2.11
+          "wait_time": 1.88
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: 297114b8-0d12-4539-9c26-6800bb38e9d5\n대기 시간: 2.11초\n입력 데이터: {\n  \"task_name\": \"작업_3\",\n  \"wait_time\": 2.11,\n  \"data\": \"테스트 데이터 3\"\n}\n완료 시각: 2025-11-13T15:46:20.982674\n==================\n",
-        "wait_time": 2.11
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 5ca854c4-5d99-490b-aad7-fb0390e40d9a\n대기 시간: 18.80초\n입력 데이터: {\n  \"task_name\": \"작업_3\",\n  \"wait_time\": 1.88,\n  \"data\": \"테스트 데이터 3\"\n}\n완료 시각: 2025-11-13T15:55:30.916910\n==================\n",
+        "wait_time": 18.799999999999997
       },
-      "wait_time": 2.11,
-      "total_time": 2.3303701877593994,
+      "wait_time": 18.799999999999997,
+      "total_time": 19.473827838897705,
       "status": "COMPLETED"
     },
     {
       "job_index": 3,
-      "job_id": "fd8cbdfb-b350-4456-8509-b151ca604164",
+      "job_id": "2b94f094-70b0-4e19-8271-12a9e8dbd756",
       "input": {
         "task_name": "작업_4",
-        "wait_time": 1.55,
+        "wait_time": 2.98,
         "data": "테스트 데이터 4"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 4",
           "task_name": "작업_4",
-          "wait_time": 1.55
+          "wait_time": 2.98
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: fd8cbdfb-b350-4456-8509-b151ca604164\n대기 시간: 1.55초\n입력 데이터: {\n  \"task_name\": \"작업_4\",\n  \"wait_time\": 1.55,\n  \"data\": \"테스트 데이터 4\"\n}\n완료 시각: 2025-11-13T15:46:20.679976\n==================\n",
-        "wait_time": 1.55
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 2b94f094-70b0-4e19-8271-12a9e8dbd756\n대기 시간: 29.80초\n입력 데이터: {\n  \"task_name\": \"작업_4\",\n  \"wait_time\": 2.98,\n  \"data\": \"테스트 데이터 4\"\n}\n완료 시각: 2025-11-13T15:55:41.654234\n==================\n",
+        "wait_time": 29.8
       },
-      "wait_time": 1.55,
-      "total_time": 2.070760488510132,
+      "wait_time": 29.8,
+      "total_time": 30.27206802368164,
       "status": "COMPLETED"
     },
     {
       "job_index": 4,
-      "job_id": "d2043d6d-5d4b-4737-ba64-1f35116f1e9e",
+      "job_id": "c620ab10-7bc0-4bcf-9495-44ab1ddffe9a",
       "input": {
         "task_name": "작업_5",
-        "wait_time": 1.42,
+        "wait_time": 2.17,
         "data": "테스트 데이터 5"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 5",
           "task_name": "작업_5",
-          "wait_time": 1.42
+          "wait_time": 2.17
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: d2043d6d-5d4b-4737-ba64-1f35116f1e9e\n대기 시간: 1.42초\n입력 데이터: {\n  \"task_name\": \"작업_5\",\n  \"wait_time\": 1.42,\n  \"data\": \"테스트 데이터 5\"\n}\n완료 시각: 2025-11-13T15:46:20.302381\n==================\n",
-        "wait_time": 1.42
+        "result_text": "작업 완료 보고서\n==================\nJob ID: c620ab10-7bc0-4bcf-9495-44ab1ddffe9a\n대기 시간: 21.70초\n입력 데이터: {\n  \"task_name\": \"작업_5\",\n  \"wait_time\": 2.17,\n  \"data\": \"테스트 데이터 5\"\n}\n완료 시각: 2025-11-13T15:55:33.820675\n==================\n",
+        "wait_time": 21.7
       },
-      "wait_time": 1.42,
-      "total_time": 1.8211889266967773,
+      "wait_time": 21.7,
+      "total_time": 22.29836106300354,
       "status": "COMPLETED"
     },
     {
       "job_index": 5,
-      "job_id": "4e7fb79b-eed0-48cd-bfeb-b46fb5bfee57",
+      "job_id": "1f560d23-c667-4038-892c-54809c23ea19",
       "input": {
         "task_name": "작업_6",
-        "wait_time": 1.26,
+        "wait_time": 1.42,
         "data": "테스트 데이터 6"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 6",
           "task_name": "작업_6",
-          "wait_time": 1.26
+          "wait_time": 1.42
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: 4e7fb79b-eed0-48cd-bfeb-b46fb5bfee57\n대기 시간: 1.26초\n입력 데이터: {\n  \"task_name\": \"작업_6\",\n  \"wait_time\": 1.26,\n  \"data\": \"테스트 데이터 6\"\n}\n완료 시각: 2025-11-13T15:46:20.390482\n==================\n",
-        "wait_time": 1.26
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 1f560d23-c667-4038-892c-54809c23ea19\n대기 시간: 14.20초\n입력 데이터: {\n  \"task_name\": \"작업_6\",\n  \"wait_time\": 1.42,\n  \"data\": \"테스트 데이터 6\"\n}\n완료 시각: 2025-11-13T15:55:26.054181\n==================\n",
+        "wait_time": 14.2
       },
-      "wait_time": 1.26,
-      "total_time": 1.8205547332763672,
+      "wait_time": 14.2,
+      "total_time": 14.86048150062561,
       "status": "COMPLETED"
     },
     {
       "job_index": 6,
-      "job_id": "2956f973-ea68-4eab-a1b9-45f148a24f17",
+      "job_id": "76c66d86-acd5-47a2-ad81-58394caf6ad8",
       "input": {
         "task_name": "작업_7",
-        "wait_time": 2.79,
+        "wait_time": 1.57,
         "data": "테스트 데이터 7"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 7",
           "task_name": "작업_7",
-          "wait_time": 2.79
+          "wait_time": 1.57
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: 2956f973-ea68-4eab-a1b9-45f148a24f17\n대기 시간: 2.79초\n입력 데이터: {\n  \"task_name\": \"작업_7\",\n  \"wait_time\": 2.79,\n  \"data\": \"테스트 데이터 7\"\n}\n완료 시각: 2025-11-13T15:46:21.671370\n==================\n",
-        "wait_time": 2.79
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 76c66d86-acd5-47a2-ad81-58394caf6ad8\n대기 시간: 15.70초\n입력 데이터: {\n  \"task_name\": \"작업_7\",\n  \"wait_time\": 1.57,\n  \"data\": \"테스트 데이터 7\"\n}\n완료 시각: 2025-11-13T15:55:27.820242\n==================\n",
+        "wait_time": 15.700000000000001
       },
-      "wait_time": 2.79,
-      "total_time": 3.3515989780426025,
+      "wait_time": 15.700000000000001,
+      "total_time": 16.400227308273315,
       "status": "COMPLETED"
     },
     {
       "job_index": 7,
-      "job_id": "a9cbadc8-657e-4b68-954b-35e4ebceb943",
+      "job_id": "eb6460c9-81af-4666-b48a-6632cbbc4374",
       "input": {
         "task_name": "작업_8",
-        "wait_time": 1.32,
+        "wait_time": 2.5,
         "data": "테스트 데이터 8"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 8",
           "task_name": "작업_8",
-          "wait_time": 1.32
+          "wait_time": 2.5
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: a9cbadc8-657e-4b68-954b-35e4ebceb943\n대기 시간: 1.32초\n입력 데이터: {\n  \"task_name\": \"작업_8\",\n  \"wait_time\": 1.32,\n  \"data\": \"테스트 데이터 8\"\n}\n완료 시각: 2025-11-13T15:46:20.451907\n==================\n",
-        "wait_time": 1.32
+        "result_text": "작업 완료 보고서\n==================\nJob ID: eb6460c9-81af-4666-b48a-6632cbbc4374\n대기 시간: 25.00초\n입력 데이터: {\n  \"task_name\": \"작업_8\",\n  \"wait_time\": 2.5,\n  \"data\": \"테스트 데이터 8\"\n}\n완료 시각: 2025-11-13T15:55:36.852819\n==================\n",
+        "wait_time": 25.0
       },
-      "wait_time": 1.32,
-      "total_time": 2.3298497200012207,
+      "wait_time": 25.0,
+      "total_time": 25.133265018463135,
       "status": "COMPLETED"
     },
     {
       "job_index": 8,
-      "job_id": "c3908211-8ae8-49c4-8360-c61b543321d4",
+      "job_id": "2403e862-f3d7-4f5f-a31b-455704e5b2c9",
       "input": {
         "task_name": "작업_9",
-        "wait_time": 2.4,
+        "wait_time": 2.49,
         "data": "테스트 데이터 9"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 9",
           "task_name": "작업_9",
-          "wait_time": 2.4
+          "wait_time": 2.49
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: c3908211-8ae8-49c4-8360-c61b543321d4\n대기 시간: 2.40초\n입력 데이터: {\n  \"task_name\": \"작업_9\",\n  \"wait_time\": 2.4,\n  \"data\": \"테스트 데이터 9\"\n}\n완료 시각: 2025-11-13T15:46:21.281140\n==================\n",
-        "wait_time": 2.4
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 2403e862-f3d7-4f5f-a31b-455704e5b2c9\n대기 시간: 24.90초\n입력 데이터: {\n  \"task_name\": \"작업_9\",\n  \"wait_time\": 2.49,\n  \"data\": \"테스트 데이터 9\"\n}\n완료 시각: 2025-11-13T15:55:37.021734\n==================\n",
+        "wait_time": 24.900000000000002
       },
-      "wait_time": 2.4,
-      "total_time": 2.83709979057312,
+      "wait_time": 24.900000000000002,
+      "total_time": 25.383159399032593,
       "status": "COMPLETED"
     },
     {
       "job_index": 9,
-      "job_id": "7accb21f-722b-4b5e-b1f7-3e18b08c1994",
+      "job_id": "8e1ccbf5-b5c1-468b-abf2-02f86b41b1ac",
       "input": {
         "task_name": "작업_10",
-        "wait_time": 2.3,
+        "wait_time": 2.71,
         "data": "테스트 데이터 10"
       },
       "output": {
         "input_data": {
           "data": "테스트 데이터 10",
           "task_name": "작업_10",
-          "wait_time": 2.3
+          "wait_time": 2.71
         },
-        "result_text": "작업 완료 보고서\n==================\nJob ID: 7accb21f-722b-4b5e-b1f7-3e18b08c1994\n대기 시간: 2.30초\n입력 데이터: {\n  \"task_name\": \"작업_10\",\n  \"wait_time\": 2.3,\n  \"data\": \"테스트 데이터 10\"\n}\n완료 시각: 2025-11-13T15:46:21.432868\n==================\n",
-        "wait_time": 2.3
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 8e1ccbf5-b5c1-468b-abf2-02f86b41b1ac\n대기 시간: 27.10초\n입력 데이터: {\n  \"task_name\": \"작업_10\",\n  \"wait_time\": 2.71,\n  \"data\": \"테스트 데이터 10\"\n}\n완료 시각: 2025-11-13T15:55:38.955050\n==================\n",
+        "wait_time": 27.1
       },
-      "wait_time": 2.3,
-      "total_time": 2.5740857124328613,
+      "wait_time": 27.1,
+      "total_time": 27.185954093933105,
       "status": "COMPLETED"
     }
   ]
