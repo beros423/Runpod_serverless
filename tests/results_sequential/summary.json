@@ -1,0 +1,218 @@
+{
+  "timestamp": "2025-11-13T15:46:45.760039",
+  "total_jobs": 10,
+  "successful": 10,
+  "failed": 0,
+  "results": [
+    {
+      "job_index": 0,
+      "job_id": "ae87e015-dc0e-4a7d-a882-97ac54364637",
+      "input": {
+        "task_name": "작업_1",
+        "wait_time": 2.08,
+        "data": "테스트 데이터 1"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 1",
+          "task_name": "작업_1",
+          "wait_time": 2.08
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: ae87e015-dc0e-4a7d-a882-97ac54364637\n대기 시간: 2.08초\n입력 데이터: {\n  \"task_name\": \"작업_1\",\n  \"wait_time\": 2.08,\n  \"data\": \"테스트 데이터 1\"\n}\n완료 시각: 2025-11-13T15:46:24.578960\n==================\n",
+        "wait_time": 2.08
+      },
+      "wait_time": 2.08,
+      "total_time": 2.8406765460968018,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 1,
+      "job_id": "da49bb6d-ee40-4e85-8f0d-5961f3c0da19",
+      "input": {
+        "task_name": "작업_2",
+        "wait_time": 1.63,
+        "data": "테스트 데이터 2"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 2",
+          "task_name": "작업_2",
+          "wait_time": 1.63
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: da49bb6d-ee40-4e85-8f0d-5961f3c0da19\n대기 시간: 1.63초\n입력 데이터: {\n  \"task_name\": \"작업_2\",\n  \"wait_time\": 1.63,\n  \"data\": \"테스트 데이터 2\"\n}\n완료 시각: 2025-11-13T15:46:26.972585\n==================\n",
+        "wait_time": 1.63
+      },
+      "wait_time": 1.63,
+      "total_time": 2.3246936798095703,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 2,
+      "job_id": "b7076511-00c1-471e-b80e-1bbfac44334c",
+      "input": {
+        "task_name": "작업_3",
+        "wait_time": 2.11,
+        "data": "테스트 데이터 3"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 3",
+          "task_name": "작업_3",
+          "wait_time": 2.11
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: b7076511-00c1-471e-b80e-1bbfac44334c\n대기 시간: 2.11초\n입력 데이터: {\n  \"task_name\": \"작업_3\",\n  \"wait_time\": 2.11,\n  \"data\": \"테스트 데이터 3\"\n}\n완료 시각: 2025-11-13T15:46:29.515999\n==================\n",
+        "wait_time": 2.11
+      },
+      "wait_time": 2.11,
+      "total_time": 2.8409504890441895,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 3,
+      "job_id": "87c1f271-6397-487b-9ba0-d140e36bc083",
+      "input": {
+        "task_name": "작업_4",
+        "wait_time": 1.55,
+        "data": "테스트 데이터 4"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 4",
+          "task_name": "작업_4",
+          "wait_time": 1.55
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 87c1f271-6397-487b-9ba0-d140e36bc083\n대기 시간: 1.55초\n입력 데이터: {\n  \"task_name\": \"작업_4\",\n  \"wait_time\": 1.55,\n  \"data\": \"테스트 데이터 4\"\n}\n완료 시각: 2025-11-13T15:46:31.797553\n==================\n",
+        "wait_time": 1.55
+      },
+      "wait_time": 1.55,
+      "total_time": 2.3244614601135254,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 4,
+      "job_id": "a0945e3e-2fc9-4a24-8d18-170cd76d5828",
+      "input": {
+        "task_name": "작업_5",
+        "wait_time": 1.42,
+        "data": "테스트 데이터 5"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 5",
+          "task_name": "작업_5",
+          "wait_time": 1.42
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: a0945e3e-2fc9-4a24-8d18-170cd76d5828\n대기 시간: 1.42초\n입력 데이터: {\n  \"task_name\": \"작업_5\",\n  \"wait_time\": 1.42,\n  \"data\": \"테스트 데이터 5\"\n}\n완료 시각: 2025-11-13T15:46:33.993681\n==================\n",
+        "wait_time": 1.42
+      },
+      "wait_time": 1.42,
+      "total_time": 1.5472779273986816,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 5,
+      "job_id": "2d62f677-67eb-4b10-8671-fe57a7c00044",
+      "input": {
+        "task_name": "작업_6",
+        "wait_time": 1.26,
+        "data": "테스트 데이터 6"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 6",
+          "task_name": "작업_6",
+          "wait_time": 1.26
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 2d62f677-67eb-4b10-8671-fe57a7c00044\n대기 시간: 1.26초\n입력 데이터: {\n  \"task_name\": \"작업_6\",\n  \"wait_time\": 1.26,\n  \"data\": \"테스트 데이터 6\"\n}\n완료 시각: 2025-11-13T15:46:35.380022\n==================\n",
+        "wait_time": 1.26
+      },
+      "wait_time": 1.26,
+      "total_time": 1.5505952835083008,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 6,
+      "job_id": "e70ce8d8-c066-4b0e-a529-92151b1b3e0b",
+      "input": {
+        "task_name": "작업_7",
+        "wait_time": 2.79,
+        "data": "테스트 데이터 7"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 7",
+          "task_name": "작업_7",
+          "wait_time": 2.79
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: e70ce8d8-c066-4b0e-a529-92151b1b3e0b\n대기 시간: 2.79초\n입력 데이터: {\n  \"task_name\": \"작업_7\",\n  \"wait_time\": 2.79,\n  \"data\": \"테스트 데이터 7\"\n}\n완료 시각: 2025-11-13T15:46:38.460871\n==================\n",
+        "wait_time": 2.79
+      },
+      "wait_time": 2.79,
+      "total_time": 2.842059850692749,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 7,
+      "job_id": "54b5fd3a-7ecf-470d-b612-42e83097fcda",
+      "input": {
+        "task_name": "작업_8",
+        "wait_time": 1.32,
+        "data": "테스트 데이터 8"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 8",
+          "task_name": "작업_8",
+          "wait_time": 1.32
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 54b5fd3a-7ecf-470d-b612-42e83097fcda\n대기 시간: 1.32초\n입력 데이터: {\n  \"task_name\": \"작업_8\",\n  \"wait_time\": 1.32,\n  \"data\": \"테스트 데이터 8\"\n}\n완료 시각: 2025-11-13T15:46:39.833486\n==================\n",
+        "wait_time": 1.32
+      },
+      "wait_time": 1.32,
+      "total_time": 1.5526089668273926,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 8,
+      "job_id": "47025f64-a6e4-44b2-919d-45bff2f9bfa5",
+      "input": {
+        "task_name": "작업_9",
+        "wait_time": 2.4,
+        "data": "테스트 데이터 9"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 9",
+          "task_name": "작업_9",
+          "wait_time": 2.4
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: 47025f64-a6e4-44b2-919d-45bff2f9bfa5\n대기 시간: 2.40초\n입력 데이터: {\n  \"task_name\": \"작업_9\",\n  \"wait_time\": 2.4,\n  \"data\": \"테스트 데이터 9\"\n}\n완료 시각: 2025-11-13T15:46:42.468211\n==================\n",
+        "wait_time": 2.4
+      },
+      "wait_time": 2.4,
+      "total_time": 2.843195915222168,
+      "status": "COMPLETED"
+    },
+    {
+      "job_index": 9,
+      "job_id": "c5af9005-0b6e-4ad1-a82d-dc7341c1488c",
+      "input": {
+        "task_name": "작업_10",
+        "wait_time": 2.3,
+        "data": "테스트 데이터 10"
+      },
+      "output": {
+        "input_data": {
+          "data": "테스트 데이터 10",
+          "task_name": "작업_10",
+          "wait_time": 2.3
+        },
+        "result_text": "작업 완료 보고서\n==================\nJob ID: c5af9005-0b6e-4ad1-a82d-dc7341c1488c\n대기 시간: 2.30초\n입력 데이터: {\n  \"task_name\": \"작업_10\",\n  \"wait_time\": 2.3,\n  \"data\": \"테스트 데이터 10\"\n}\n완료 시각: 2025-11-13T15:46:45.210182\n==================\n",
+        "wait_time": 2.3
+      },
+      "wait_time": 2.3,
+      "total_time": 2.8368008136749268,
+      "status": "COMPLETED"
+    }
+  ]
+}
