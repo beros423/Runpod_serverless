@@ -955,7 +955,7 @@ def collect_tags(file_name, products, organism, strain, sub_strain, output_dir, 
                 tags += tag
                 with open(output_log, 'a') as f:
                     f.write(f"Raw_response: \n{raw_response}\n")
-                    f.write(f"\nParsed tags: \n[{"\n".join(tag)}]\n")
+                    f.write(f"\nParsed tags: \n[{'\n'.join(tag)}]\n")
                     f.write(f"\n\nChunk {idx + 1} processed: {len(tag)}tags collected\n\n")
                     f.write('----------------------------------------\n')
                 break
