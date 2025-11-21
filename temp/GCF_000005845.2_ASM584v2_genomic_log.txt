@@ -1,0 +1,26 @@
+GBFF file: GCF_000005845.2_ASM584v2_genomic.gbff
+Total products: 94
+Raw_response: 
+{
+"tags": [
+"Oxidative stress response",
+"Electron transfer flavoproteins",
+"Lipopolysaccharide assembly",
+"Dihydrofolate reduction",
+"Peroxide detoxification",
+"Bifunctional riboflavin metabolism"
+]
+}
+
+Parsed tags: 
+[Oxidative stress response
+Electron transfer flavoproteins
+Lipopolysaccharide assembly
+Dihydrofolate reduction
+Peroxide detoxification
+Bifunctional riboflavin metabolism]
+
+
+Chunk 1 processed: 6tags collected
+
+----------------------------------------

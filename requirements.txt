@@ -1,1 +1,8 @@
 runpod==1.7.12
+requests
+urllib3
+ollama
+transformers
+torch
+numpy
+biopython

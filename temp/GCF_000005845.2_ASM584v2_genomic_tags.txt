@@ -1,0 +1,48 @@
+Oxidative stress response
+Electron transfer flavoproteins
+Lipopolysaccharide assembly
+Dihydrofolate reduction
+Peroxide detoxification
+Bifunctional riboflavin metabolism
+Gram-negative bacteria
+Proteobacteria phylum member
+Gamma Proteobacteria class member
+Enterobacteriales order member
+Enterobacteriaceae family member
+Non-pathogenic to humans
+Gut flora inhabitant
+Facultatively anaerobic
+Nutrient-dependent growth
+Energy harvesting complex present (Ton system)
+Inner membrane with KdpA protein
+Outer membrane with TonB protein
+Transmembrane gradient of K+ maintained
+Low ancestral mutation rate
+Elevated genomic evolution rate in later generations
+Eubacteria
+Bacteria
+Proteobacteria
+Gamma Proteobacteria
+Enterobacteriales
+Enterobacteriaceae
+Escherichia
+K-dependent system
+Ton system
+Anaerobic respiration
+Aerobic respiration
+Pyruvic acid oxidation
+Formic acid oxidation
+Hydrogen oxidation
+Oxidation of amino acids
+Reduction of oxygen
+Reduction of nitrate
+Reduction of fumarate
+Reduction of dimethyl sulfoxide
+Reduction of trimethylamine N-oxide
+N-linked glycosylation system
+single membrane structure
+facultative anaerobic respiration
+oxidation of pyruvic acid
+oxidation of formic acid
+oxidation of hydrogen
+prokaryotic cell wall
